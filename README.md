@@ -1,4 +1,4 @@
-# Project 3 - Movies
+# Project 3 - Movies Part 2
 
 Submitted by: Irton Aguiar
 
