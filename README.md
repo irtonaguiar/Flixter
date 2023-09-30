@@ -1,29 +1,34 @@
-# Project 3 - Movies Part 2
+# Project 2 
 
 Submitted by: Irton Aguiar
 
 Movies is a movie browsing app that allows users to explore a list of displayed movies. 
 Users have the option to click on any movie from the list to explore more content about the selected movie.
 
-Time spent: 8 hours spent in total
+Time spent: 10 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [x] Implement network call and table view to display a list of movies currently playing (title, description, image)
-- [x] App has a collection view with the same list of movies
-- [x] Uses a tab bar controller to switch between collection view and table view screens
+The following **required** functionality is completed:
+
+- [x] Users are able to see a customized app icon and launch screen
+- [x] Your app should work for any screen size and orientation using AutoLayout constraints
+- [x] Mark here if you will demostrate auto layout implemention as horizontal rotation or different phone size or both, then erase this text
+- [x] Displays at least 5 different movies in a table view
+- [x] Can tap into detail view of movie with a full description, backdrop image, and title
  
 The following **optional** features are implemented:
 
-- [x] Make an additional network call to another end-point.	
-- [x] Allow users to scroll when context items are off-screen (table view implemention)
+- [x] Unique UI changes, such as background, font/color changes, etc.
+- [x] User implements a collection view
+- [x] User implemenets tab bar controller with at least two screens
 
 
 
 ## Video Walkthrough
-[![LINK](https://img.youtube.com/vi/fLFpPT1haC8&ab.jpg)](https://youtu.be/fLFpPT1haC8&ab)
+[![LINK](https://img.youtube.com/vi/KxlxVmX7DqQ&ab.jpg)](https://youtu.be/KxlxVmX7DqQ&ab)
 
 
 ## License
